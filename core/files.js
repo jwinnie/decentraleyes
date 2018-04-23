@@ -62,6 +62,9 @@ var files = {
     'resources/backbone.js/1.2.1/backbone-min.js.dec': true,
     'resources/backbone.js/1.2.2/backbone-min.js.dec': true,
     'resources/backbone.js/1.2.3/backbone-min.js.dec': true,
+    
+    // Bootstrap
+    'resources/bootstrap/4.1.0/bootstrap.min.js.dec': true,
 
     // Dojo
     'resources/dojo/1.4.1/dojo/dojo.js.dec': true,
