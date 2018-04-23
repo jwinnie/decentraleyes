@@ -88,6 +88,12 @@ var mappings = {
             'modernizr/modernizr-{version}.': resources.modernizr
         }
     },
+    // BootstrapCDN
+    'stackpath.bootstrapcdn.com': {
+        '/bootstrap/': {
+            '{version}/js/bootstrap.min.js': resources.bootstrap
+        }
+    },
     // CDNJS (Cloudflare)
     'cdnjs.cloudflare.com': {
         '/ajax/libs/': {
